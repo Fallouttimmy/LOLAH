@@ -1,0 +1,10 @@
+openai
+numpy
+requests
+sounddevice
+speechrecognition
+pyttsx3
+opencv-python
+pyaudio
+networkx
+sqlite3
